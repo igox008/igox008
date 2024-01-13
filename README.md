@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://badge.mediaplus.ma/binary/alaassir
+[![alaassir's 42 stats](https://badge.mediaplus.ma/binary/alaassir)](https://github.com/oakoudad/badge42)
 <!--
 **igox008/igox008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
