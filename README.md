@@ -1,4 +1,3 @@
 ### Hi buddy 👋
 
 [![alaassir's 42 stats](https://badge.mediaplus.ma/binary/alaassir)](https://github.com/oakoudad/badge42)
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDAQh7QtXQaYf4lU+SNJvDr6guoHKx1UpXNTA9X9XOyYmkWBlqEch5Ov5ybhFxn0AUSthKMgjDQEx1OK2pqOuSmYiJeWiYi5yP1vo1D8kWdtFeLJgtI9L5txZ0kS3o90ZcpoMQW/dEUnTWQWil7m34wkjQMlZIDmwGcwn1ctCWSzof1JVYEsB67uXDpDZEiRKv9Ge9EBeR7jgdXswMf/EXkoL1k2iEMa+tuqBnjph426cnpXOTt1cLCeuHJpVvOJGdU0klwy2XbKfQmeoRudZmWEdoQvoWNvQFcsL6XeieIYkvPSCIaVvKkj5bnFyjdP9cPDW+7+ioFnuugr3fV2G80Bxr3iSWukN8eH/UPrNAycG3xGcE+fy6ZXJ/T6PPcFzuAtA20O2nbwNr5QF+cSh2C2rM8YiQ1Uzqd+9WGaVFnQGXIFOvrmOK5dUiaU3eVszGfz9LoJ0nPN+ijNdvkMpymPw/tB8EybMEVhNdap4GijhUenmIs/4Cp+SiixYVyrec= alaassir@e1r6p7.1337.ma
