@@ -1,7 +1,7 @@
 
 #  📍 Ahmed Lassiri
 
-*`Student at 1337 KH`*
+## *`Student at 1337 KH`*
 
   🎓 19 | Studying hard and coding even harder 💻
 
