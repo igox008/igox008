@@ -3,7 +3,7 @@
 
 #### *`Student at 1337 KH`*
 
-  🎓 19 | Studying hard and coding even harder 💻
+  🎓 20 | Studying hard and coding even harder 💻
 
   📚 Passionate about technology, coding, and learning new things 🚀
 
