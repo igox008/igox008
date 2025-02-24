@@ -7,8 +7,6 @@
 
   📚 Passionate about technology, coding, and learning new things 🚀
 
-  🎮 Gamer at heart, tech enthusiast by choice 🔥
-
   📌 Living the 1337 life, one line of code at a time 🚀
 
 [![alaassir's 42 stats](https://badge.mediaplus.ma/colorfulwaves/alaassir)]([https://github.com/oakoudad/badge42](https://profile.intra.42.fr/users/alaassir))
