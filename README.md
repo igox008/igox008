@@ -44,10 +44,10 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/igox008" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-igox008-black?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/ahmed-laassiri-48162a229" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:youremail@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail" />
+  <a href="mailto:ahmedlaassiri75@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
